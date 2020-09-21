@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/avengers-assemble/static/css/main.259652d0.chunk.css",
+    "main.js": "/avengers-assemble/static/js/main.e24a4dbf.chunk.js",
+    "main.js.map": "/avengers-assemble/static/js/main.e24a4dbf.chunk.js.map",
+    "runtime-main.js": "/avengers-assemble/static/js/runtime-main.33c890e2.js",
+    "runtime-main.js.map": "/avengers-assemble/static/js/runtime-main.33c890e2.js.map",
+    "static/js/2.a8513d88.chunk.js": "/avengers-assemble/static/js/2.a8513d88.chunk.js",
+    "static/js/2.a8513d88.chunk.js.map": "/avengers-assemble/static/js/2.a8513d88.chunk.js.map",
+    "index.html": "/avengers-assemble/index.html",
+    "precache-manifest.6c72cb790cd2eba7c3bf4f9d1d516495.js": "/avengers-assemble/precache-manifest.6c72cb790cd2eba7c3bf4f9d1d516495.js",
+    "service-worker.js": "/avengers-assemble/service-worker.js",
+    "static/css/main.259652d0.chunk.css.map": "/avengers-assemble/static/css/main.259652d0.chunk.css.map",
+    "static/js/2.a8513d88.chunk.js.LICENSE.txt": "/avengers-assemble/static/js/2.a8513d88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c890e2.js",
+    "static/js/2.a8513d88.chunk.js",
+    "static/css/main.259652d0.chunk.css",
+    "static/js/main.e24a4dbf.chunk.js"
+  ]
+}
